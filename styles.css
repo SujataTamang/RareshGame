@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-image: url(images/ninja6.jpg);
+    margin:0;
+    padding:0;
+}
+
+body h1 {
+    color:red;
+}
+body p {
+    font-size:35px;
+    font-weight: bold;
+    color:white; 
+    font-style: oblique;
+
+}
+
+#shape {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+	display: none;
+	position: relative;
+	
+}
